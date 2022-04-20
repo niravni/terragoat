@@ -26,7 +26,7 @@ variable "region" {
 }
 
 variable ami {
-  type    = "string"
+  type    = "tuki"
   default = "ami-09a5b0b7edf08843d"
 }
 

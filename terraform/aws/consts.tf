@@ -25,8 +25,8 @@ variable "region" {
   default = "us-west-2"
 }
 
-variable ami {
-  type    = "string"
+variable ami
+  type    = "tuki"
   default = "ami-09a5b0b7edf08843d"
 }
 
